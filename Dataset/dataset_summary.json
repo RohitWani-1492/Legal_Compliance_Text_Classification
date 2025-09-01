@@ -1,0 +1,15 @@
+{
+  "total_examples": 179,
+  "label_distribution": {
+    "CAN-SPAM Violation": 54,
+    "CCPA Disclosure": 50,
+    "CAN-SPAM Compliant": 40,
+    "Non-Disclosure": 35
+  },
+  "categories": {
+    "CAN-SPAM Compliant": "Examples of emails that comply with CAN-SPAM Act requirements",
+    "CAN-SPAM Violation": "Examples of emails that violate CAN-SPAM Act requirements",
+    "CCPA Disclosure": "Examples of proper CCPA privacy disclosures for California consumers",
+    "Non-Disclosure": "Examples of inadequate privacy notices that lack proper disclosure"
+  }
+}
